@@ -26,11 +26,11 @@ function unityShowBanner(msg, type) {
 }
 
 var buildUrl = "Build";
-var loaderUrl = buildUrl + "/Test.loader.js";
+var loaderUrl = buildUrl + "/ShamlaTech Metaverse.loader.js";
 var config = {
-    dataUrl: buildUrl + "/Test.data.unityweb",
-    frameworkUrl: buildUrl + "/Test.framework.js.unityweb",
-    codeUrl: buildUrl + "/Test.wasm.unityweb",
+    dataUrl: buildUrl + "/ShamlaTech Metaverse.data.unityweb",
+    frameworkUrl: buildUrl + "/ShamlaTech Metaverse.framework.js.unityweb",
+    codeUrl: buildUrl + "/ShamlaTech Metaverse.wasm.unityweb",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "Shamal tech",
     productName: "Metaverse meeting",
